@@ -122,7 +122,6 @@ GameObject:
   m_Component:
   - component: {fileID: 405076114}
   - component: {fileID: 405076113}
-  - component: {fileID: 405076115}
   m_Layer: 0
   m_Name: New Sprite
   m_TagString: Untagged
